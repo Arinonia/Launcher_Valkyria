@@ -4,7 +4,7 @@
   
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/fr/)  [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](paypal.me/ArinoniaDev)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ArinoniaDev)
 
   
 
